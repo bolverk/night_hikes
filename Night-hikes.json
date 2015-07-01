@@ -3,19 +3,19 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "Name": "Nimrod Fortress National Park", "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1}, "geometry": { "type": "Point", "coordinates": [ 35.712635, 33.252237, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Mount Bental", "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1}, "geometry": { "type": "Point", "coordinates": [ 35.785782, 33.128367, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "\"Khorshat ha-Arbaim\"", "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1}, "geometry": { "type": "Point", "coordinates": [ 35.027592, 32.755222, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "גן לאומי ציפורי", "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1}, "geometry": { "type": "Point", "coordinates": [ 35.283408, 32.750187, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "יחיעם מרכז", "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1}, "geometry": { "type": "Point", "coordinates": [ 35.219472, 32.996218, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Alexander Stream National Park", "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1}, "geometry": { "type": "Point", "coordinates": [ 34.868043, 32.396329, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "נחל חווארים\n", "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1}, "geometry": { "type": "Point", "coordinates": [ 34.7637033, 30.8420365, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "חאן בארותיים", "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1}, "geometry": { "type": "Point", "coordinates": [ 34.472405, 30.792201, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Chan HaShayarot (Caravan Seray)", "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1}, "geometry": { "type": "Point", "coordinates": [ 34.751558, 30.82877, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "חי בר יטבתה", "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1}, "geometry": { "type": "Point", "coordinates": [ 35.02936, 29.846188, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Nabi Samuil", "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1}, "geometry": { "type": "Point", "coordinates": [ 35.180546, 31.833024, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Beit Guvrin", "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1}, "geometry": { "type": "Point", "coordinates": [ 34.895568, 31.61288, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Ein Hemed National Park", "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1}, "geometry": { "type": "Point", "coordinates": [ 35.127384, 31.795248, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Qumran", "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1}, "geometry": { "type": "Point", "coordinates": [ 35.459148, 31.741248, 0.0 ] } }
+{ "type": "Feature", "properties": { "Name": "Nimrod Fortress National Park"}, "geometry": { "type": "Point", "coordinates": [ 35.712635, 33.252237, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Mount Bental"}, "geometry": { "type": "Point", "coordinates": [ 35.785782, 33.128367, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "\"Khorshat ha-Arbaim\""}, "geometry": { "type": "Point", "coordinates": [ 35.027592, 32.755222, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "גן לאומי ציפורי"}, "geometry": { "type": "Point", "coordinates": [ 35.283408, 32.750187, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "יחיעם מרכז"}, "geometry": { "type": "Point", "coordinates": [ 35.219472, 32.996218, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Alexander Stream National Park"}, "geometry": { "type": "Point", "coordinates": [ 34.868043, 32.396329, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "נחל חווארים\n"}, "geometry": { "type": "Point", "coordinates": [ 34.7637033, 30.8420365, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "חאן בארותיים"}, "geometry": { "type": "Point", "coordinates": [ 34.472405, 30.792201, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Chan HaShayarot (Caravan Seray)"}, "geometry": { "type": "Point", "coordinates": [ 34.751558, 30.82877, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "חי בר יטבתה"}, "geometry": { "type": "Point", "coordinates": [ 35.02936, 29.846188, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Nabi Samuil"}, "geometry": { "type": "Point", "coordinates": [ 35.180546, 31.833024, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Beit Guvrin"}, "geometry": { "type": "Point", "coordinates": [ 34.895568, 31.61288, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Ein Hemed National Park"}, "geometry": { "type": "Point", "coordinates": [ 35.127384, 31.795248, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Qumran"}, "geometry": { "type": "Point", "coordinates": [ 35.459148, 31.741248, 0.0 ] } }
 ]
 }
